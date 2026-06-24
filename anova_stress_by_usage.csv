@@ -1,0 +1,2 @@
+test,F,p_value,k_groups
+one-way ANOVA: stress ~ usage_group(Low/Med/High),259.996,1.7e-94,3

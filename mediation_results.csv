@@ -1,0 +1,2 @@
+a (X->M),b (M->Y|X),c_total (X->Y),c_prime_direct (X->Y|M),indirect (a*b),boot_ci95_low,boot_ci95_high,prop_mediated,sobel_z,sobel_p,n
+-0.3987,-0.589,0.705,0.4702,0.2348,0.1895,0.2837,0.3331,10.114,4.779e-24,1200

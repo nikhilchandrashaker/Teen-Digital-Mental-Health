@@ -1,0 +1,9 @@
+variable,daily_social_media_hours,sleep_hours,screen_time_before_sleep_min,physical_activity_hrs_week,social_interaction_level,age,stress_level,academic_performance
+daily_social_media_hours,1.0,-0.652,0.598,-0.115,-0.235,0.107,0.608,-0.587
+sleep_hours,-0.652,1.0,-0.625,0.162,0.168,-0.099,-0.575,0.584
+screen_time_before_sleep_min,0.598,-0.625,1.0,-0.04,-0.172,0.097,0.429,-0.419
+physical_activity_hrs_week,-0.115,0.162,-0.04,1.0,0.016,-0.006,-0.287,0.361
+social_interaction_level,-0.235,0.168,-0.172,0.016,1.0,-0.014,-0.283,0.191
+age,0.107,-0.099,0.097,-0.006,-0.014,1.0,0.101,-0.091
+stress_level,0.608,-0.575,0.429,-0.287,-0.283,0.101,1.0,-0.738
+academic_performance,-0.587,0.584,-0.419,0.361,0.191,-0.091,-0.738,1.0

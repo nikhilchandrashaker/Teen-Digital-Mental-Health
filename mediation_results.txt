@@ -1,0 +1,14 @@
+MEDIATION: social media (X) -> sleep (M) -> stress (Y)
+=======================================================
+a  (X -> M)                : -0.3987
+b  (M -> Y | X)            : -0.5890
+c  total  (X -> Y)         : +0.7050
+c' direct (X -> Y | M)     : +0.4702
+indirect effect (a*b)      : +0.2348
+  bootstrap 95% CI         : [+0.1895, +0.2837]  -> significant (CI excludes 0)
+  Sobel z                  : 10.114  (p = 4.779e-24)
+proportion mediated        : 33.3%
+n                          : 1200   bootstrap draws: 5000
+
+Interpretation: a*b captures how much of social media's association with
+stress runs THROUGH reduced sleep; c' is the remaining direct association.

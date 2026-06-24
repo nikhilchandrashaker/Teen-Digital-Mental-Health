@@ -1,0 +1,6 @@
+comparison,group1_mean,group2_mean,mean_diff,ci95_low,ci95_high,t,df,p_value,cohens_d,n1,n2
+High vs Low usage: stress_level,5.725,4.106,1.619,1.46,1.778,19.998,1194.8,5.683e-77,1.154,601,599
+High vs Low usage: sleep_hours,7.2,8.097,-0.896,-0.979,-0.814,-21.34,1195.6,7.132e-86,-1.232,601,599
+High vs Low usage: academic_performance,3.076,3.563,-0.486,-0.539,-0.433,-17.946,1139.1,1.294e-63,-1.036,601,599
+TikTok vs Instagram: daily_social_media_hours,3.843,3.359,0.484,0.278,0.69,4.617,704.8,4.618e-06,0.347,370,339
+TikTok vs Instagram: stress_level,5.164,4.773,0.391,0.152,0.631,3.21,700.8,0.001389,0.241,370,339

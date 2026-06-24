@@ -1,0 +1,5 @@
+index,outcome,pearson_r,p_value
+DERI (equal weight),stress_level,0.62,1.56e-128
+DERI (equal weight),academic_performance,-0.612,3.057e-124
+"DERI (PCA, 75% var)",stress_level,0.621,6.426e-129
+"DERI (PCA, 75% var)",academic_performance,-0.613,1.144e-124

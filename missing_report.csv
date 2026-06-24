@@ -1,0 +1,5 @@
+column,n_missing,pct_missing
+sleep_hours,48,4.0
+screen_time_before_sleep_min,36,3.0
+physical_activity_hrs_week,36,3.0
+social_interaction_level,36,3.0
